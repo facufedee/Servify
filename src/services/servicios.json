@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Desarrollo de sitio web",
+    "image": "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/798403f5b92b1b5af997acc704a3d21c-1702465156477/website-development.png",
+    "description": "Professional website development services."
+  },
+  {
+    "title": "Diseño de Logo",
+    "image": "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/798403f5b92b1b5af997acc704a3d21c-1702465156494/logo-design.png",
+    "description": "Unique and memorable logo design."
+  },
+  {
+    "title": "Marketing Digital",
+    "image": "URL de la imagen para Marketing Digital",
+    "description": "Servicios profesionales de marketing digital para aumentar la visibilidad y las ventas en línea."
+  },
+  {
+    "title": "Consultoría SEO y Optimización",
+    "image": "URL de la imagen para Consultoría SEO",
+    "description": "Optimización de sitios web para mejorar el ranking en los resultados de búsqueda y aumentar el tráfico orgánico."
+  },
+  {
+    "title": "Desarrollo de Aplicaciones Móviles",
+    "image": "URL de la imagen para Desarrollo de Aplicaciones Móviles",
+    "description": "Diseño y desarrollo de aplicaciones móviles personalizadas para iOS y Android, adaptadas a las necesidades específicas de tu negocio."
+  },
+  {
+    "title": "Gestión de Redes Sociales",
+    "image": "URL de la imagen para Gestión de Redes Sociales",
+    "description": "Gestión integral de redes sociales para empresas, incluyendo estrategia, contenido, publicaciones y análisis de resultados para mejorar la presencia y el compromiso en las redes sociales."
+  },
+  {
+      "title": "E-commerce",
+      "image": "URL de la imagen para E-commerce",
+      "description": "Diseño y desarrollo de tiendas en línea seguras y eficientes para vender productos y servicios."
+    },
+    {
+      "title": "Optimización de Conversiones",
+      "image": "URL de la imagen para Optimización de Conversiones",
+      "description": "Análisis y mejora de la experiencia del usuario para aumentar las conversiones y ventas en tu sitio web."
+    },
+    {
+      "title": "Desarrollo de Software a Medida",
+      "image": "URL de la imagen para Desarrollo de Software a Medida",
+      "description": "Desarrollo personalizado de software para resolver problemas específicos y mejorar la eficiencia operativa."
+    },
+    {
+      "title": "Diseño UX/UI",
+      "image": "URL de la imagen para Diseño UX/UI",
+      "description": "Creación de interfaces intuitivas y atractivas para mejorar la experiencia del usuario en aplicaciones y sitios web."
+    }
+  ]
+  

@@ -1,0 +1,33 @@
+/* Nav.css */
+.servify-nav {
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .servify-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .servify-nav li {
+    margin: 0 20px;
+  }
+  
+  .servify-nav a {
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  .join-button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }

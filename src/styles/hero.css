@@ -1,0 +1,62 @@
+/* Hero.css */
+:root {
+  --background-image-url: url('https://th.bing.com/th/id/R.c27d66b51271d0c6c73a377eaf65f821?rik=TzgQExjU9VJjXQ&riu=http%3a%2f%2fblog.bizx.com%2fhubfs%2fUntitled_design_11.png%23keepProtocol&ehk=Nq%2bVJVxH3jqCFy%2b9UU5zPg4klgSegYwfZUaW7N7iznE%3d&risl=1&pid=ImgRaw&r=0');
+}
+
+.servify-main {
+  margin: 0 auto;
+  padding: 0 3%;
+}
+
+.servify-hero {
+  background-color: #f7f7f7;
+  padding: 10px;
+  border-radius: 10px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.servify-hero-image {
+  background-image: var(--background-image-url);
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.servify-hero-text {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 20px;
+  width: 600px;
+  text-align: center;
+  color: white;
+}
+
+.servify-hero-search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  bottom: 20px;
+}
+
+.servify-hero-search input[type="text"] {
+  width: 60%;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+.servify-hero-search button {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-left: 10px;
+}
